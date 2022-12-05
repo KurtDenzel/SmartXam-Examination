@@ -27,5 +27,10 @@ examination, and questions.
 # 🌎 Copyright
 SmartXam is Copyright © 2022 – onwards Kurt Calacday. It is distributed under the <a href="https://opensource.org/licenses/MIT">MIT License</a> A copy of the license is available in the distributed LICENSE file.
 
+SmartXam contains the following third-party libraries:
+- <a href="https://www.php.net/">PHP</a>,  general-purpose scripting language geared toward web development.
+- <a href="https://getbootstrap.com/">Bootstrap</a>,  a free and open-source CSS framework directed at responsive, mobile-first front-end web development.
+- <a href="https://api.jquery.com/jquery.ajax/">jQuery AJAX</a>, a set of web development techniques that uses various web technologies on the client-side to create asynchronous web applications.
+- <a href="https://www.sqlite.org/">SQLite</a>, a database engine written in the C programming language.
 
-- If you are a web developer and wish to license SmartXam for commercial usage, please email kurtdenzel51@gmail.com for more information.
+If you are a web developer and wish to license SmartXam for commercial usage, please email kurtdenzel51@gmail.com for more information.
