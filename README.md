@@ -21,3 +21,11 @@ within the dashboard.
 - Essential SCRUD Database operations to the instances of managing students,
 examination, and questions.
 - Determining the Equivalency of students by sorting out their graded remarks
+
+<br>
+
+# 🌎 Copyright
+SmartXam is Copyright © 2022 – onwards Kurt Calacday. It is distributed under the <a href="https://opensource.org/licenses/MIT">MIT License</a> A copy of the license is available in the distributed LICENSE file.
+
+
+- If you are a web developer and wish to license SmartXam for commercial usage, please email kurtdenzel51@gmail.com for more information.
