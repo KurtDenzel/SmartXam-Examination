@@ -24,6 +24,10 @@ examination, and questions.
 
 <br>
 
+# 🎢 Compiling
+
+<br>
+
 # 🌎 Copyright
 SmartXam is Copyright © 2022 – onwards Kurt Calacday. It is distributed under the <a href="https://opensource.org/licenses/MIT">MIT License</a> A copy of the license is available in the distributed LICENSE file.
 
