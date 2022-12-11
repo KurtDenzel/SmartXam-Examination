@@ -25,7 +25,7 @@ examination, and questions.
 <br>
 
 # 🎢 Compiling
-- Hemlo
+- Compile
 
 
 <br>
