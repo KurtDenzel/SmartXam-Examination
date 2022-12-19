@@ -37,17 +37,17 @@ Your solution stack software should run the modules of ```Apache``` & ```MySQL``
   [mysql] 	Attempting to start MySQL app...
   [mysql] 	Status change detected: running
 ```
-To test SmartXAM itself, simply extract or place it within where is your Solution stack software is installed. After knowing the location that depends on the letters of your drive e.g. ```Drive for Work(C:)```, navigate to its repositories like this:
-
-<br>
-<b>Navigating to the folder</b>
-
+To test SmartXAM itself, firstly, we have to extract or place it within where is your Solution stack software is installed. After knowing the location that depends on the letters of your drive e.g. ```Drive for Work(C:)```, navigate to its repositories like this:
 ```txt
   [xampp] -> [htdocs] -> [Folder name of the System]
 ```
 
 <br>
-Testing out the system just requires a modern browser of your choice, and entering the url ```http://localhost/Folder name of the system```
+Additionally, be sure to also extract our included ```.sql``` file, and import it within ```http://localhost/phpmyadmin/```.
+
+<br>
+<br>
+Testing out the system just requires a modern browser of your choice, and entering the url ```http://localhost/Folder name of the system```.
 
 
 <br>
