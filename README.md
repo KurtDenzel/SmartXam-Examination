@@ -27,6 +27,14 @@ examination, and questions.
 # 🎢 Compiling
 Compiling requires using cross-platform web server solution stack package or newer. XAMPP, WampServer, MAMP and etcetera... are known to work for compiling this system.
 
+Your solution stack cli should run the modules of ```Apache``` & ```MySQL```.
+
+```json
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+```
+
 <br>
 
 # 🌎 Copyright
