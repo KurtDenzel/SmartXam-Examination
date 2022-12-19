@@ -27,12 +27,15 @@ examination, and questions.
 # 🎢 Compiling
 Compiling requires using cross-platform web server solution stack package or newer. XAMPP, WampServer, MAMP and etcetera... are known to work for compiling this system.
 
-Your solution stack cli should run the modules of ```Apache``` & ```MySQL```.
+Your solution stack software should run the modules of ```Apache``` & ```MySQL```, with their services of ```PID(s)``` & ```Port(s)``` having their respective numbers.
 
-```json
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+ Simply check your cli/audit logs below from your software for SmartXAM:
+
+```txt
+  [Apache] 	Attempting to start Apache app...
+  [Apache] 	Status change detected: running
+  [mysql] 	Attempting to start MySQL app...
+  [mysql] 	Status change detected: running
 ```
 
 <br>
