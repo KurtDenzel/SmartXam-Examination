@@ -42,14 +42,14 @@ To test SmartXAM itself, firstly, we have to extract or place it within where is
   [xampp] -> [htdocs] -> [Folder name of the System]
 ```
 
-<br>
-Additionally, be sure to also extract our included ```.sql``` file, and import it within ```http://localhost/phpmyadmin/```.
+<br >
+Additionally, be sure to also extract our included <code>.sql</code> file, and import it within <code>http://localhost/phpmyadmin/</code>.
 
 <br>
 <br>
-Testing out the system just requires a modern browser of your choice, and entering the url ```http://localhost/Folder name of the system```.
+Testing out the system just requires a modern browser of your choice, and entering the url <code>http://localhost/Folder name of the system</code>.
 
-
+<br>
 <br>
 
 # 🌎 Copyright
