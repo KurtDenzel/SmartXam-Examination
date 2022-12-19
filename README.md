@@ -25,7 +25,7 @@ examination, and questions.
 <br>
 
 # 🎢 Compiling
-Compiling requires using cross-platform web server solution stack package or newer. XAMPP, WampServer, MAMP and etcetera... are known to work for compiling this system.
+Compiling requires using cross-platform web server solution stack package or newer. XAMPP, WampServer, MAMP and etcetera... are known to work for compiling SmartXAM.
 
 Your solution stack software should run the modules of ```Apache``` & ```MySQL```, with their services of ```PID(s)``` & ```Port(s)``` having their respective numbers.
 
@@ -37,6 +37,18 @@ Your solution stack software should run the modules of ```Apache``` & ```MySQL``
   [mysql] 	Attempting to start MySQL app...
   [mysql] 	Status change detected: running
 ```
+To test SmartXAM itself, simply extract or place it within where is your Solution stack software is installed. After knowing the location that depends on the letters of your drive e.g. ```Drive for Work(C:)```, navigate to its repositories like this:
+
+<br>
+<b>Navigating to the folder</b>
+
+```txt
+  [xampp] -> [htdocs] -> [Folder name of the System]
+```
+
+<br>
+Testing out the system just requires a modern browser of your choice, and entering the url ```http://localhost/Folder name of the system```
+
 
 <br>
 
