@@ -25,8 +25,7 @@ examination, and questions.
 <br>
 
 # 🎢 Compiling
-- Compile
-
+Compiling requires using cross-platform web server solution stack package or newer. XAMPP, WampServer, MAMP and etcetera... are known to work for compiling this system.
 
 <br>
 
